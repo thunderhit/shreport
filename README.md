@@ -5,7 +5,7 @@
 ```
 
 - github地址 https://github.com/hidadeng/shreport
--  pypi地址 https://pypi.org/project/shreport
+- pypi地址 https://pypi.org/project/shreport
 
 
 
@@ -257,7 +257,7 @@ Run
 
 # 如果
 
-如果您是经管人文社科专业背景，编程小白，面临海量文本数据采集和处理分析艰巨任务，可以参看[《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)视频课。作为文科生，一样也是从两眼一抹黑开始，这门课程是用五年时间凝缩出来的。自认为讲的很通俗易懂o(*￣︶￣*)o，
+如果您是经管人文社科专业背景，编程小白，面临海量文本数据采集和处理分析艰巨任务，可以参看[《python网络爬虫与文本数据分析》](https://textdata.cn/blog/management_python_course/)视频课。作为文科生，一样也是从两眼一抹黑开始，这门课程是用五年时间凝缩出来的。自认为讲的很通俗易懂o(*￣︶￣*)o，
 
 - python入门
 - 网络爬虫
@@ -266,9 +266,9 @@ Run
 - 机器学习与文本分析
 - 文本分析在经管研究中的应用
 
-感兴趣的童鞋不妨 戳一下[《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)进来看看~
+感兴趣的童鞋不妨 戳一下[《python网络爬虫与文本数据分析》](https://textdata.cn/blog/management_python_course/)进来看看~
 
-[![](img/课程.png)](https://ke.qq.com/course/482241?tuin=163164df)
+[![](img/management_data_mining_with_python_course2.png)](https://textdata.cn/blog/management_python_course/)
 
 <br>
 
@@ -279,10 +279,10 @@ Run
 
 - 公众号：大邓和他的python
 
-- [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
+- [博客](https://textdata.cn/)
+
 
 <br>
-
 
 
 ![](img/大邓和他的Python.png)
